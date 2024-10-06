@@ -35,6 +35,9 @@ Advantages of this design:
 * Sn42Bi58 solder for attaching wire to magnets at low temperature
 * 20AWG silicone flexible wire (red and black)
 * 0.49" SSD1306 OLED
+* 28.2mmx33mmx2.4mm 50D silicone o-ring
+* 1.5mm nano tape (adds friction to prevent cell slipping)
+* Short piece of flat wire (used for programming after assembly)
 * Lixada solar panel
 
 ## Assembly
